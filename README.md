@@ -26,7 +26,7 @@ CREATE DATABASE storefront;
 CREATE DATABASE test;
 ```
 
-##Scripts:
+## Scripts:
 - test app -> npm run test
 - start app -> npm run start
 - build app -> npm run dev // npx tsc
