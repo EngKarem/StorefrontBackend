@@ -25,8 +25,6 @@ TOKEN_SECRET
 CREATE DATABASE storefront;
 CREATE DATABASE test;
 ```
-### backend port 3000
-### database port 5432
 
 ##Scripts:
 - test app -> npm run test
